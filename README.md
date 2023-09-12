@@ -12,3 +12,7 @@ The Iris flower dataset has been used in this project to predict the class from 
 
 ## Model Visualization
 ![image](https://github.com/vaishnaviadhav/Prediction_using_DecisionTree/assets/71253152/c304c1ea-75e0-4fb1-8ca9-0ba5f1194705)
+
+## Model Prediction
+Furthermore, the class is predicted with the independant features using the trained model. 
+![image](https://github.com/vaishnaviadhav/Prediction_using_DecisionTree/assets/71253152/4d541c27-09e8-4335-8234-bf967718ac68)
