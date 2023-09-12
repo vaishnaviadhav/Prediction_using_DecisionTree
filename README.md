@@ -8,3 +8,4 @@ The Iris flower dataset is used to predict the class of an iris flower using Dec
 
 ## Dataset
 The dataset has been used in this project is Iris flower data to predict the class from multiple features.
+![image](https://github.com/vaishnaviadhav/Prediction_using_DecisionTree/assets/71253152/757318d0-7cee-4725-9fca-ed703919fdbb)
